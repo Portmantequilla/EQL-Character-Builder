@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 Download & info
+    url: https://beecanyonretro.com
+    about: The builder's home page — downloads, features, and full credits.
+  - name: 🛠 Building from source
+    url: https://github.com/Portmantequilla/EQL-Character-Planner/blob/main/BUILD.md
+    about: Prerequisites, running it locally, and building the game database.

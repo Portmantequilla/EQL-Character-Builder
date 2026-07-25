@@ -1,0 +1,33 @@
+name: 🐛 Bug report
+description: Something crashed, froze, or behaved wrong
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. See ...
+  - type: dropdown
+    id: install
+    attributes:
+      label: Install type
+      options:
+        - Installer
+        - Standalone (portable)
+        - Not sure
+  - type: input
+    id: version
+    attributes:
+      label: App version (if known)
+      placeholder: "v0.2.0"

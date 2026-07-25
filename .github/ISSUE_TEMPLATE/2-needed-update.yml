@@ -1,0 +1,33 @@
+name: 🔧 Needed update / correction
+description: A value, item, spell, tier, cap, or formula is wrong or out of date
+title: "[Update] "
+labels: ["needs-update"]
+body:
+  - type: markdown
+    attributes:
+      value: "Report anything the app gets wrong versus the live game — a stat, spell value, item, tier, cap, or formula. Screenshots are hugely appreciated."
+  - type: input
+    id: where
+    attributes:
+      label: Where in the app?
+      description: Which tab / item / spell?
+      placeholder: "e.g. Spell Manager → Frost Rift, or Equipment → Keg Mallet"
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What's wrong, and what should it be?
+      description: What the app shows now versus the correct value.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source (if any)
+      description: In-game screenshot, wiki link, patch note, etc.
+  - type: input
+    id: version
+    attributes:
+      label: App version (if known)
+      placeholder: "v0.2.0"

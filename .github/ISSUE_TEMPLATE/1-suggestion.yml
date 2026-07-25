@@ -1,0 +1,26 @@
+name: 💡 Suggestion / Feature request
+description: Suggest a new feature, tab, or improvement for the EQL Character Builder
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping shape the EQL Character Builder! Fill in what you can — nothing here is required except the first box."
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature, tab, or improvement.
+      placeholder: "e.g. a side-by-side comparison of two saved builds"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: What would it make easier, faster, or possible?
+  - type: input
+    id: version
+    attributes:
+      label: App version (if known)
+      placeholder: "v0.2.0"

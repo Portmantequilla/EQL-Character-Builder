@@ -1,0 +1,27 @@
+# --- build output ---
+app/target/
+app/node_modules/
+app/dist/
+__pycache__/
+
+# --- generated game data (rebuildable; see BUILD.md) ---
+# Not redistributed here: build locally with the scripts/ pipeline, or grab the
+# dev-assets bundle from the releases page.
+db/*.db
+db/*.db-journal
+*.db-journal
+app/src-tauri/resources/
+app/public/icons/
+raw/
+exports/
+
+# --- release artifacts: ship via GitHub Releases, never commit binaries ---
+Releases/
+
+# --- local-only ---
+*.lnk
+scripts/scan_terms.local.txt
+CLAUDE.md
+
+# extracted spell data dumps — game data, not redistributed (see NOTICE.md)
+eql_spells_*.json

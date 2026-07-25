@@ -1,0 +1,11 @@
+[package]
+name = "eql-engine"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+eql-data = { path = "../eql-data" }
+serde.workspace = true
+
+[dev-dependencies]
+serde_json.workspace = true

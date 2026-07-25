@@ -1,0 +1,3157 @@
+{
+ "+6 Talismans": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "1H Blunt": {
+  "size": 317,
+  "pages": 317,
+  "subcats": 0
+ },
+ "1H Slashing": {
+  "size": 415,
+  "pages": 415,
+  "subcats": 0
+ },
+ "2H Blunt": {
+  "size": 190,
+  "pages": 190,
+  "subcats": 0
+ },
+ "2H Piercing": {
+  "size": 24,
+  "pages": 24,
+  "subcats": 0
+ },
+ "2H Slashing": {
+  "size": 218,
+  "pages": 218,
+  "subcats": 0
+ },
+ "?": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Achievements": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Adventuring Supplies": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Adventuring Supplies & Parcels": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Adventuring Supplies Merchant": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Adventuring Supply Merchant": {
+  "size": 1,
+  "pages": 0,
+  "subcats": 1
+ },
+ "Aegis line": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Aggro Clickies": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Ak'Anon": {
+  "size": 214,
+  "pages": 214,
+  "subcats": 0
+ },
+ "Ak'Anon Quests": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Alchemy": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Alchemy Ingredient": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Alcohol": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "All Classes Quests": {
+  "size": 242,
+  "pages": 242,
+  "subcats": 0
+ },
+ "Ammo": {
+  "size": 88,
+  "pages": 88,
+  "subcats": 0
+ },
+ "Animal": {
+  "size": 298,
+  "pages": 298,
+  "subcats": 0
+ },
+ "Archery": {
+  "size": 100,
+  "pages": 100,
+  "subcats": 0
+ },
+ "Armor Sets": {
+  "size": 282,
+  "pages": 281,
+  "subcats": 1
+ },
+ "Arms": {
+  "size": 329,
+  "pages": 329,
+  "subcats": 0
+ },
+ "Articles for Deletion": {
+  "size": 278,
+  "pages": 278,
+  "subcats": 0
+ },
+ "Auction Tracker Broken": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Back": {
+  "size": 267,
+  "pages": 267,
+  "subcats": 0
+ },
+ "Baking Ingredient": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Bandage": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Banker": {
+  "size": 35,
+  "pages": 35,
+  "subcats": 0
+ },
+ "Bard Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Bard Equipment": {
+  "size": 3680,
+  "pages": 3680,
+  "subcats": 0
+ },
+ "Bard Guides": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Bard Instrument": {
+  "size": 47,
+  "pages": 47,
+  "subcats": 0
+ },
+ "Bard Quests": {
+  "size": 52,
+  "pages": 52,
+  "subcats": 0
+ },
+ "Beastlord Build": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Beastlord Equipment": {
+  "size": 35,
+  "pages": 35,
+  "subcats": 0
+ },
+ "Beastlord Pet": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Befallen": {
+  "size": 84,
+  "pages": 84,
+  "subcats": 0
+ },
+ "Beholder's Maze": {
+  "size": 63,
+  "pages": 63,
+  "subcats": 0
+ },
+ "Berserker Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Berserker Equipment": {
+  "size": 34,
+  "pages": 34,
+  "subcats": 0
+ },
+ "Berserker Guide": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Bertoxxulous Worshiper Equipment": {
+  "size": 18,
+  "pages": 18,
+  "subcats": 0
+ },
+ "Blackburrow": {
+  "size": 76,
+  "pages": 76,
+  "subcats": 0
+ },
+ "Blessing of the Page line": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Book": {
+  "size": 200,
+  "pages": 200,
+  "subcats": 0
+ },
+ "Brell Serilis Worshiper Equipment": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Brewing Ingredient": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Bristlebane Worshiper Equipment": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Build Guides": {
+  "size": 37,
+  "pages": 4,
+  "subcats": 33
+ },
+ "Burning Woods": {
+  "size": 110,
+  "pages": 110,
+  "subcats": 0
+ },
+ "Butcherblock Mountains": {
+  "size": 159,
+  "pages": 159,
+  "subcats": 0
+ },
+ "Caster Equipment": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Caster Gear": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Cazic Thule": {
+  "size": 81,
+  "pages": 81,
+  "subcats": 0
+ },
+ "Cazic Thule Worshiper Equipment": {
+  "size": 61,
+  "pages": 61,
+  "subcats": 0
+ },
+ "Character": {
+  "size": 22,
+  "pages": 22,
+  "subcats": 0
+ },
+ "Character Races": {
+  "size": 15,
+  "pages": 15,
+  "subcats": 0
+ },
+ "Chardok": {
+  "size": 287,
+  "pages": 287,
+  "subcats": 0
+ },
+ "Chardok Revamp Era": {
+  "size": 357,
+  "pages": 357,
+  "subcats": 0
+ },
+ "Chest": {
+  "size": 506,
+  "pages": 506,
+  "subcats": 0
+ },
+ "City of Mist": {
+  "size": 109,
+  "pages": 109,
+  "subcats": 0
+ },
+ "Clan Runnyeye": {
+  "size": 54,
+  "pages": 54,
+  "subcats": 0
+ },
+ "Classic Era": {
+  "size": 6059,
+  "pages": 6058,
+  "subcats": 1
+ },
+ "Cleric Build": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Cleric Equipment": {
+  "size": 3415,
+  "pages": 3415,
+  "subcats": 0
+ },
+ "Cleric Quests": {
+  "size": 88,
+  "pages": 88,
+  "subcats": 0
+ },
+ "Clickies": {
+  "size": 15,
+  "pages": 15,
+  "subcats": 0
+ },
+ "Cobalt Scar": {
+  "size": 84,
+  "pages": 84,
+  "subcats": 0
+ },
+ "Containers": {
+  "size": 74,
+  "pages": 74,
+  "subcats": 0
+ },
+ "Crushbone": {
+  "size": 49,
+  "pages": 49,
+  "subcats": 0
+ },
+ "Crypt of Dalnir": {
+  "size": 83,
+  "pages": 83,
+  "subcats": 0
+ },
+ "Crystal Caverns": {
+  "size": 124,
+  "pages": 124,
+  "subcats": 0
+ },
+ "Dagnor's Cauldron": {
+  "size": 50,
+  "pages": 50,
+  "subcats": 0
+ },
+ "Darkglow Palace Guards": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Deity": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Deity Worshiper Equipment": {
+  "size": 15,
+  "pages": 0,
+  "subcats": 15
+ },
+ "Dragon Necropolis": {
+  "size": 153,
+  "pages": 153,
+  "subcats": 0
+ },
+ "Dreadlands": {
+  "size": 86,
+  "pages": 86,
+  "subcats": 0
+ },
+ "Druid Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Druid Equipment": {
+  "size": 2231,
+  "pages": 2231,
+  "subcats": 0
+ },
+ "Druid Quests": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Ear": {
+  "size": 111,
+  "pages": 111,
+  "subcats": 0
+ },
+ "East Cabilis": {
+  "size": 144,
+  "pages": 144,
+  "subcats": 0
+ },
+ "East Commonlands": {
+  "size": 75,
+  "pages": 75,
+  "subcats": 0
+ },
+ "East Freeport": {
+  "size": 177,
+  "pages": 177,
+  "subcats": 0
+ },
+ "Easter Egg": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Eastern Plains of Karana": {
+  "size": 108,
+  "pages": 108,
+  "subcats": 0
+ },
+ "Eastern Wastes": {
+  "size": 179,
+  "pages": 179,
+  "subcats": 0
+ },
+ "Emerald Jungle": {
+  "size": 53,
+  "pages": 53,
+  "subcats": 0
+ },
+ "Enchanter Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Enchanter Equipment": {
+  "size": 1819,
+  "pages": 1819,
+  "subcats": 0
+ },
+ "Enchanter Quests": {
+  "size": 36,
+  "pages": 36,
+  "subcats": 0
+ },
+ "Epic Quests Era": {
+  "size": 333,
+  "pages": 333,
+  "subcats": 0
+ },
+ "Equipment": {
+  "size": 40,
+  "pages": 3,
+  "subcats": 37
+ },
+ "Era Templates": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Erollisi Marr Worshiper Equipment": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Erud's Crossing": {
+  "size": 50,
+  "pages": 50,
+  "subcats": 0
+ },
+ "Erudin": {
+  "size": 131,
+  "pages": 131,
+  "subcats": 0
+ },
+ "Erudin Palace": {
+  "size": 91,
+  "pages": 91,
+  "subcats": 0
+ },
+ "Everfrost Peaks": {
+  "size": 120,
+  "pages": 120,
+  "subcats": 0
+ },
+ "Face": {
+  "size": 272,
+  "pages": 272,
+  "subcats": 0
+ },
+ "Factions": {
+  "size": 258,
+  "pages": 258,
+  "subcats": 0
+ },
+ "Fashion:Cleric Robe": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Fashion:Druid Robe": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion:Monk Robe": {
+  "size": 15,
+  "pages": 15,
+  "subcats": 0
+ },
+ "Fashion: Alizarin Crimson": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Anakiwa": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Apple": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Arapawa": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Asparagus": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Asphalt": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Astronaut Blue": {
+  "size": 35,
+  "pages": 35,
+  "subcats": 0
+ },
+ "Fashion: Aubergine": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Avocado": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Bahama Blue": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Barley Corn": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Bean": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Biscay": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Black": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion: Black Bean": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Black Rock": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Blue Bayoux": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Blue Lagoon": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Blue Ribbon": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Blue Stone": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Blue Violet": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Bossanova": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Boulder": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Bright Gray": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Bright Red": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Brown Derby": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Brown Rust": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Brown Tumbleweed": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Buddha Gold": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Burnt Maroon": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Burnt Orange": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Buttercup": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Calypso Blue": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Camarone": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Fashion: Cape Cod Gray": {
+  "size": 11,
+  "pages": 11,
+  "subcats": 0
+ },
+ "Fashion: Cardinal Pink": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Caribbean Blue": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Caribbean Green": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Carmine": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Castro Maroon": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Cedar Wood Finish": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Celery": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Cerulean": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Chain": {
+  "size": 360,
+  "pages": 360,
+  "subcats": 0
+ },
+ "Fashion: Cherrywood": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Chicago": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Chino": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Chocolate": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Clairvoyant": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Claret Maroon": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Closed Book": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Cloth": {
+  "size": 244,
+  "pages": 244,
+  "subcats": 0
+ },
+ "Fashion: Cloud Burst": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Cocoa Bean": {
+  "size": 15,
+  "pages": 15,
+  "subcats": 0
+ },
+ "Fashion: Cocoa Brown": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Fashion: Cod Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Coldain Skin Boots": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Cornflower Blue": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Crimson Robe of Alendine": {
+  "size": 15,
+  "pages": 15,
+  "subcats": 0
+ },
+ "Fashion: Cryosilk Robe": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Fashion: Crystal Staff": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Curious Blue": {
+  "size": 11,
+  "pages": 11,
+  "subcats": 0
+ },
+ "Fashion: Custom Helm": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Cyan / Aqua": {
+  "size": 24,
+  "pages": 24,
+  "subcats": 0
+ },
+ "Fashion: Danube": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Dark Blue": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Fashion: Dark Fern": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion: Dark Maroon": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Dark Red": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Dark Taupe": {
+  "size": 22,
+  "pages": 22,
+  "subcats": 0
+ },
+ "Fashion: De York Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Deep Bronze": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Deep Fir": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Deep Sea Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Dell Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Diesel Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Dodger Blue": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Dolphin": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Domino": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Dove Gray": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Driftwood": {
+  "size": 23,
+  "pages": 23,
+  "subcats": 0
+ },
+ "Fashion: Eucalyptus": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Fern": {
+  "size": 20,
+  "pages": 20,
+  "subcats": 0
+ },
+ "Fashion: Fern Frond": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Fern Green": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Fine Plate": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Flowing Black Robe": {
+  "size": 13,
+  "pages": 13,
+  "subcats": 0
+ },
+ "Fashion: Flush Mahogany": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Forest Green": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Fun Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Fuscous Gray": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Fashion: Gimblet": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion: Glade Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Glowing Red Stone": {
+  "size": 22,
+  "pages": 22,
+  "subcats": 0
+ },
+ "Fashion: Glowing White Stone": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion: Goblin": {
+  "size": 5,
+  "pages": 5,
+  "subcats": 0
+ },
+ "Fashion: Gold": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Gold Tips": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Golden Rectangular Dragon Shield": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Gondola": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Gray": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Green Haze": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Guardsman Red": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Gulf Blue": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Fashion: Gunsmoke": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Harlequin Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Heath": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Heavy Metal": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Himalaya": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Hippie Blue": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Hot Cinnamon": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Hot Pink": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Indian Khaki": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Jacko Bean": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Jaguar": {
+  "size": 49,
+  "pages": 49,
+  "subcats": 0
+ },
+ "Fashion: Jambalaya Brown": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Japanese Laurel": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Fashion: Java Blue": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Kelp": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Kenyan Copper": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Kilamanjaro": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Kimberly Purple": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Kunark Chain": {
+  "size": 89,
+  "pages": 89,
+  "subcats": 0
+ },
+ "Fashion: Laser Lemon": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Leather": {
+  "size": 459,
+  "pages": 459,
+  "subcats": 0
+ },
+ "Fashion: Lemon Ginger": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Lochmara": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Log Cabin": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Logan": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Lonestar": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Loulou": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Mahogany": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Mako": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Malachite Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Malachite Green 2": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Mallard": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Manz": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Mardi Gras Purple": {
+  "size": 16,
+  "pages": 16,
+  "subcats": 0
+ },
+ "Fashion: Marigold": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Martinique": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Masala": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Matisse": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Medium Purple": {
+  "size": 13,
+  "pages": 13,
+  "subcats": 0
+ },
+ "Fashion: Melrose": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Mid Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Midnight": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Midnight Blue": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Mine Shaft": {
+  "size": 67,
+  "pages": 67,
+  "subcats": 0
+ },
+ "Fashion: Mirage": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Monk": {
+  "size": 35,
+  "pages": 35,
+  "subcats": 0
+ },
+ "Fashion: Mustard": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Nandor": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: None": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Ocean Green": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Old Copper": {
+  "size": 21,
+  "pages": 21,
+  "subcats": 0
+ },
+ "Fashion: Olive Drab": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Olivetone": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Open Book": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Oslo Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Outer Space": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Pale Blue": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Palm Leaf": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Parsley": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Periwinkle": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Periwinkle Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Persian Blue": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Persian Plum": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Persian Plum 2": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Peru Tan": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Pizazz": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Plain Robe": {
+  "size": 40,
+  "pages": 40,
+  "subcats": 0
+ },
+ "Fashion: Plate": {
+  "size": 575,
+  "pages": 575,
+  "subcats": 0
+ },
+ "Fashion: Plum": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Primrose": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Purple": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Purple Heart": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Racing Green": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Red Stage": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Redwood": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Reef Gold": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Robe of the Kedge": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Robe of the Oracle": {
+  "size": 11,
+  "pages": 11,
+  "subcats": 0
+ },
+ "Fashion: Roman": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Rose Bud Cherry": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Rosewood": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Royal Blue": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Ruby Red": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Rum": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Rustic Red": {
+  "size": 11,
+  "pages": 11,
+  "subcats": 0
+ },
+ "Fashion: Rusty Nail": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Salem": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Salomie": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: San Felix": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Sangria": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Santas Gray": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Sapling": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Scampi": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Scarlet": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Fashion: Scarpa Flow": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Scooter": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Screamin' Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Scute Shield": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Sea Green": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Seance": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Seashell": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Seaweed": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Sepia Black": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Shamrock": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Fashion: Shark": {
+  "size": 31,
+  "pages": 31,
+  "subcats": 0
+ },
+ "Fashion: Shingle Fawn": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Shining Metallic Robes": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Ship Gray": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Silver Chalice": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Silver Sand": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Fashion: Spicy Pink": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Star Dust Gray": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Storm Dust": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Fashion: Storm Gray": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Stratos": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Stromboli": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Supernova": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Fashion: Surfie Green": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Suupernova": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Temptress": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Texas": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Thistle Green": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Torch Red": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Tuna": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Ultramarine": {
+  "size": 19,
+  "pages": 19,
+  "subcats": 0
+ },
+ "Fashion: Velious Chain 1": {
+  "size": 58,
+  "pages": 58,
+  "subcats": 0
+ },
+ "Fashion: Velious Chain 2": {
+  "size": 95,
+  "pages": 95,
+  "subcats": 0
+ },
+ "Fashion: Velious Leather 1": {
+  "size": 33,
+  "pages": 33,
+  "subcats": 0
+ },
+ "Fashion: Velious Leather 2": {
+  "size": 192,
+  "pages": 192,
+  "subcats": 0
+ },
+ "Fashion: Velious Monk": {
+  "size": 167,
+  "pages": 167,
+  "subcats": 0
+ },
+ "Fashion: Velious Plate 1": {
+  "size": 69,
+  "pages": 69,
+  "subcats": 0
+ },
+ "Fashion: Velious Plate 2": {
+  "size": 146,
+  "pages": 146,
+  "subcats": 0
+ },
+ "Fashion: Venetian Red": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Fashion: Violet": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Violet Eggplant": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Voodoo": {
+  "size": 6,
+  "pages": 6,
+  "subcats": 0
+ },
+ "Fashion: Vulcan": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Walnut": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Fashion: Water Sprinkler of Nem'Ankh": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Waterloo": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: White": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: William": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Fashion: Winter Hazel": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Wood Bark": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Woodsmoke": {
+  "size": 16,
+  "pages": 16,
+  "subcats": 0
+ },
+ "Fashion: Yakatizma`s Shield of Crafting": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Yellow": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Yukon Gold": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Yuma": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Fashion: Zest Orange": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Fashion: Zuccini": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Faydwer Quests": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "FearHateRevamp Era": {
+  "size": 76,
+  "pages": 76,
+  "subcats": 0
+ },
+ "Fear Era": {
+  "size": 51,
+  "pages": 51,
+  "subcats": 0
+ },
+ "Feet": {
+  "size": 355,
+  "pages": 355,
+  "subcats": 0
+ },
+ "Field of Bone": {
+  "size": 128,
+  "pages": 128,
+  "subcats": 0
+ },
+ "Fingers": {
+  "size": 214,
+  "pages": 214,
+  "subcats": 0
+ },
+ "Firiona Vie": {
+  "size": 210,
+  "pages": 210,
+  "subcats": 0
+ },
+ "Focus Effects": {
+  "size": 44,
+  "pages": 44,
+  "subcats": 0
+ },
+ "Foraged": {
+  "size": 132,
+  "pages": 132,
+  "subcats": 0
+ },
+ "Frontier Mountains": {
+  "size": 183,
+  "pages": 183,
+  "subcats": 0
+ },
+ "Game Mechanics": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Great Divide": {
+  "size": 140,
+  "pages": 140,
+  "subcats": 0
+ },
+ "Greater Faydark": {
+  "size": 183,
+  "pages": 183,
+  "subcats": 0
+ },
+ "Grobb": {
+  "size": 98,
+  "pages": 98,
+  "subcats": 0
+ },
+ "Ground Spawn": {
+  "size": 23,
+  "pages": 23,
+  "subcats": 0
+ },
+ "Guides": {
+  "size": 45,
+  "pages": 43,
+  "subcats": 2
+ },
+ "HEAD": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Halas": {
+  "size": 112,
+  "pages": 112,
+  "subcats": 0
+ },
+ "Halas Factions": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Hand to Hand": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Hands": {
+  "size": 373,
+  "pages": 373,
+  "subcats": 0
+ },
+ "Hate Era": {
+  "size": 59,
+  "pages": 59,
+  "subcats": 0
+ },
+ "Head": {
+  "size": 469,
+  "pages": 469,
+  "subcats": 0
+ },
+ "Heroism line": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "High Keep": {
+  "size": 107,
+  "pages": 107,
+  "subcats": 0
+ },
+ "Highpass Hold": {
+  "size": 95,
+  "pages": 95,
+  "subcats": 0
+ },
+ "Hole and Veeshan's Peak Era": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Howling Stones": {
+  "size": 94,
+  "pages": 94,
+  "subcats": 0
+ },
+ "Hunting Spots": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Iceclad Ocean": {
+  "size": 94,
+  "pages": 94,
+  "subcats": 0
+ },
+ "Icewell Keep": {
+  "size": 77,
+  "pages": 77,
+  "subcats": 0
+ },
+ "Iksar Factions": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Illusions": {
+  "size": 54,
+  "pages": 54,
+  "subcats": 0
+ },
+ "Innoruuk Worshiper Equipment": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Innothule Swamp": {
+  "size": 90,
+  "pages": 90,
+  "subcats": 0
+ },
+ "Instant Click Equipment": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Inventory": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Inventory Items": {
+  "size": 4282,
+  "pages": 4282,
+  "subcats": 0
+ },
+ "Invisibility Items": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Items": {
+  "size": 10695,
+  "pages": 10665,
+  "subcats": 30
+ },
+ "Kael": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Kael Armor Quests": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Kael Drakkel": {
+  "size": 516,
+  "pages": 516,
+  "subcats": 0
+ },
+ "Kaesora": {
+  "size": 97,
+  "pages": 97,
+  "subcats": 0
+ },
+ "Kaladim": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Karana Worshiper Equipment": {
+  "size": 42,
+  "pages": 42,
+  "subcats": 0
+ },
+ "Karnor's Castle": {
+  "size": 131,
+  "pages": 131,
+  "subcats": 0
+ },
+ "Kedge Keep": {
+  "size": 102,
+  "pages": 102,
+  "subcats": 0
+ },
+ "Kerra Island": {
+  "size": 120,
+  "pages": 120,
+  "subcats": 0
+ },
+ "Keys": {
+  "size": 52,
+  "pages": 52,
+  "subcats": 0
+ },
+ "Kithicor Forest": {
+  "size": 170,
+  "pages": 170,
+  "subcats": 0
+ },
+ "Kunark Era": {
+  "size": 3292,
+  "pages": 3290,
+  "subcats": 1
+ },
+ "Kurn's Tower": {
+  "size": 73,
+  "pages": 73,
+  "subcats": 0
+ },
+ "Lake Rathetear": {
+  "size": 103,
+  "pages": 103,
+  "subcats": 0
+ },
+ "Lake of Ill Omen": {
+  "size": 171,
+  "pages": 171,
+  "subcats": 0
+ },
+ "Lavastorm Mountains": {
+  "size": 64,
+  "pages": 64,
+  "subcats": 0
+ },
+ "Legacy Items": {
+  "size": 87,
+  "pages": 87,
+  "subcats": 0
+ },
+ "Legends Only": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Legs": {
+  "size": 341,
+  "pages": 341,
+  "subcats": 0
+ },
+ "Lesser Faydark": {
+  "size": 163,
+  "pages": 163,
+  "subcats": 0
+ },
+ "Light source": {
+  "size": 143,
+  "pages": 143,
+  "subcats": 0
+ },
+ "Line": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Loc Mapped": {
+  "size": 107,
+  "pages": 107,
+  "subcats": 0
+ },
+ "Lore": {
+  "size": 30,
+  "pages": 30,
+  "subcats": 0
+ },
+ "Lore Items": {
+  "size": 1239,
+  "pages": 1239,
+  "subcats": 0
+ },
+ "Lower Guk": {
+  "size": 139,
+  "pages": 139,
+  "subcats": 0
+ },
+ "Magician Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Magician Equipment": {
+  "size": 1821,
+  "pages": 1821,
+  "subcats": 0
+ },
+ "Magician Focus Items": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Magician Quests": {
+  "size": 45,
+  "pages": 44,
+  "subcats": 1
+ },
+ "Mana Drain": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Mar 2000 Era": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "May 1999 Era": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Merchants": {
+  "size": 1641,
+  "pages": 1641,
+  "subcats": 0
+ },
+ "Mines of Nurga": {
+  "size": 31,
+  "pages": 31,
+  "subcats": 0
+ },
+ "Missing Lore": {
+  "size": 570,
+  "pages": 570,
+  "subcats": 0
+ },
+ "Mistmoore Castle": {
+  "size": 113,
+  "pages": 113,
+  "subcats": 0
+ },
+ "Misty Thicket": {
+  "size": 92,
+  "pages": 92,
+  "subcats": 0
+ },
+ "Mithaniel Marr Worshiper Equipment": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Monk Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Monk Equipment": {
+  "size": 2113,
+  "pages": 2113,
+  "subcats": 0
+ },
+ "Monk Guide": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Monk Quests": {
+  "size": 34,
+  "pages": 34,
+  "subcats": 0
+ },
+ "Monster factions": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "NPC Only Spells": {
+  "size": 647,
+  "pages": 647,
+  "subcats": 0
+ },
+ "NPCs": {
+  "size": 8145,
+  "pages": 8139,
+  "subcats": 6
+ },
+ "Nagafen's Lair": {
+  "size": 108,
+  "pages": 108,
+  "subcats": 0
+ },
+ "Najena": {
+  "size": 118,
+  "pages": 118,
+  "subcats": 0
+ },
+ "Named Mobs": {
+  "size": 6498,
+  "pages": 6498,
+  "subcats": 0
+ },
+ "Neck": {
+  "size": 440,
+  "pages": 440,
+  "subcats": 0
+ },
+ "Necro Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Necromancer Build": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Necromancer Equipment": {
+  "size": 1816,
+  "pages": 1816,
+  "subcats": 0
+ },
+ "Necromancer Quests": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Needs New Image": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Negative MR": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Nektulos Forest": {
+  "size": 114,
+  "pages": 114,
+  "subcats": 0
+ },
+ "Neriak Commons": {
+  "size": 105,
+  "pages": 105,
+  "subcats": 0
+ },
+ "Neriak Foreign Quarter": {
+  "size": 71,
+  "pages": 71,
+  "subcats": 0
+ },
+ "Neriak Third Gate": {
+  "size": 100,
+  "pages": 100,
+  "subcats": 0
+ },
+ "New Sebilis Expedition": {
+  "size": 27,
+  "pages": 27,
+  "subcats": 0
+ },
+ "Noindexed pages": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Non-P99 Content": {
+  "size": 106,
+  "pages": 106,
+  "subcats": 0
+ },
+ "North Freeport": {
+  "size": 115,
+  "pages": 115,
+  "subcats": 0
+ },
+ "North Kaladim": {
+  "size": 79,
+  "pages": 79,
+  "subcats": 0
+ },
+ "North Qeynos": {
+  "size": 138,
+  "pages": 138,
+  "subcats": 0
+ },
+ "North Ro": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Northern Desert of Ro": {
+  "size": 68,
+  "pages": 68,
+  "subcats": 0
+ },
+ "Northern Felwithe": {
+  "size": 73,
+  "pages": 73,
+  "subcats": 0
+ },
+ "Northern Karana": {
+  "size": 116,
+  "pages": 116,
+  "subcats": 0
+ },
+ "Nov 2000 Era": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Oasis of Marr": {
+  "size": 32,
+  "pages": 32,
+  "subcats": 0
+ },
+ "Ocean of Tears": {
+  "size": 120,
+  "pages": 120,
+  "subcats": 0
+ },
+ "Oggok": {
+  "size": 103,
+  "pages": 103,
+  "subcats": 0
+ },
+ "Ogre": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Old Sebilis": {
+  "size": 204,
+  "pages": 204,
+  "subcats": 0
+ },
+ "P99 Bug List": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Pages transcluding nonexistent sections": {
+  "size": 13,
+  "pages": 13,
+  "subcats": 0
+ },
+ "Pages using duplicate arguments in template calls": {
+  "size": 550,
+  "pages": 550,
+  "subcats": 0
+ },
+ "Pages using the DynamicPageList extension": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Pages with broken file links": {
+  "size": 915,
+  "pages": 908,
+  "subcats": 7
+ },
+ "Pages with ignored display titles": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Pages with template loops": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Paineel": {
+  "size": 148,
+  "pages": 148,
+  "subcats": 0
+ },
+ "Paineel Era": {
+  "size": 124,
+  "pages": 124,
+  "subcats": 0
+ },
+ "Paladin Build": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Paladin Equipment": {
+  "size": 3826,
+  "pages": 3826,
+  "subcats": 0
+ },
+ "Paladin Quests": {
+  "size": 74,
+  "pages": 74,
+  "subcats": 0
+ },
+ "Parcels Merchants": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Patch Notes": {
+  "size": 2,
+  "pages": 1,
+  "subcats": 1
+ },
+ "Permafrost": {
+  "size": 105,
+  "pages": 105,
+  "subcats": 0
+ },
+ "Piercing": {
+  "size": 349,
+  "pages": 349,
+  "subcats": 0
+ },
+ "Plane of Fear": {
+  "size": 157,
+  "pages": 157,
+  "subcats": 0
+ },
+ "Plane of Growth": {
+  "size": 144,
+  "pages": 144,
+  "subcats": 0
+ },
+ "Plane of Hate": {
+  "size": 224,
+  "pages": 224,
+  "subcats": 0
+ },
+ "Plane of Mischief": {
+  "size": 170,
+  "pages": 170,
+  "subcats": 0
+ },
+ "Plane of Mischief Cards": {
+  "size": 17,
+  "pages": 17,
+  "subcats": 0
+ },
+ "Plane of Mischief Dolls": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Plane of Mischief Puppets": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Plane of Sky": {
+  "size": 324,
+  "pages": 324,
+  "subcats": 0
+ },
+ "Plant": {
+  "size": 12,
+  "pages": 12,
+  "subcats": 0
+ },
+ "Player Crafted": {
+  "size": 2061,
+  "pages": 2061,
+  "subcats": 0
+ },
+ "Pottery Ingredient": {
+  "size": 8,
+  "pages": 8,
+  "subcats": 0
+ },
+ "Prexus Worshiper Equipment": {
+  "size": 34,
+  "pages": 34,
+  "subcats": 0
+ },
+ "Primary": {
+  "size": 1681,
+  "pages": 1681,
+  "subcats": 0
+ },
+ "Qeynos": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Qeynos Aqueducts": {
+  "size": 133,
+  "pages": 133,
+  "subcats": 0
+ },
+ "Qeynos Hills": {
+  "size": 103,
+  "pages": 103,
+  "subcats": 0
+ },
+ "Quellious Worshiper Equipment": {
+  "size": 40,
+  "pages": 40,
+  "subcats": 0
+ },
+ "Quest Items": {
+  "size": 4134,
+  "pages": 4134,
+  "subcats": 0
+ },
+ "Quests": {
+  "size": 197,
+  "pages": 191,
+  "subcats": 6
+ },
+ "Raid Encounters": {
+  "size": 75,
+  "pages": 75,
+  "subcats": 0
+ },
+ "Rallos Zek Worshiper Equipment": {
+  "size": 47,
+  "pages": 47,
+  "subcats": 0
+ },
+ "Range": {
+  "size": 288,
+  "pages": 288,
+  "subcats": 0
+ },
+ "Ranger Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Ranger Equipment": {
+  "size": 3419,
+  "pages": 3419,
+  "subcats": 0
+ },
+ "Ranger Quests": {
+  "size": 59,
+  "pages": 59,
+  "subcats": 0
+ },
+ "Rathe Mountains": {
+  "size": 156,
+  "pages": 156,
+  "subcats": 0
+ },
+ "Repeatable Turn-in Quests": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Rivervale": {
+  "size": 135,
+  "pages": 135,
+  "subcats": 0
+ },
+ "Rodcet Nife Worshiper Equipment": {
+  "size": 34,
+  "pages": 34,
+  "subcats": 0
+ },
+ "Rogue Build": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Rogue Equipment": {
+  "size": 3356,
+  "pages": 3356,
+  "subcats": 0
+ },
+ "Rogue Guide": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Rogue Quests": {
+  "size": 65,
+  "pages": 65,
+  "subcats": 0
+ },
+ "RunnyEye Citadel": {
+  "size": 68,
+  "pages": 68,
+  "subcats": 0
+ },
+ "Secondary": {
+  "size": 1158,
+  "pages": 1158,
+  "subcats": 0
+ },
+ "See Hidden": {
+  "size": 31,
+  "pages": 31,
+  "subcats": 0
+ },
+ "Shadow Knight Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Shadow Knight Equipment": {
+  "size": 4003,
+  "pages": 4003,
+  "subcats": 0
+ },
+ "Shadow Knight Quests": {
+  "size": 72,
+  "pages": 72,
+  "subcats": 0
+ },
+ "Shadowknight Equipment": {
+  "size": 3,
+  "pages": 3,
+  "subcats": 0
+ },
+ "Shaman Build": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Shaman Equipment": {
+  "size": 2786,
+  "pages": 2786,
+  "subcats": 0
+ },
+ "Shaman Quests": {
+  "size": 67,
+  "pages": 67,
+  "subcats": 0
+ },
+ "Shielding line": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Shoulders": {
+  "size": 254,
+  "pages": 254,
+  "subcats": 0
+ },
+ "Significant Factions": {
+  "size": 30,
+  "pages": 30,
+  "subcats": 0
+ },
+ "Siren's Grotto": {
+  "size": 92,
+  "pages": 92,
+  "subcats": 0
+ },
+ "Skills": {
+  "size": 170,
+  "pages": 170,
+  "subcats": 0
+ },
+ "Sky Era": {
+  "size": 365,
+  "pages": 365,
+  "subcats": 0
+ },
+ "Skyfire Mountains": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Skyshrine": {
+  "size": 313,
+  "pages": 313,
+  "subcats": 0
+ },
+ "Skyshrine Armor Quests": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Sleeper's Tomb": {
+  "size": 40,
+  "pages": 40,
+  "subcats": 0
+ },
+ "Solusek's Eye": {
+  "size": 116,
+  "pages": 116,
+  "subcats": 0
+ },
+ "Solusek Ro Worshiper Equipment": {
+  "size": 10,
+  "pages": 10,
+  "subcats": 0
+ },
+ "Soulbinder": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "South Kaladim": {
+  "size": 74,
+  "pages": 74,
+  "subcats": 0
+ },
+ "South Qeynos": {
+  "size": 233,
+  "pages": 233,
+  "subcats": 0
+ },
+ "Southern Desert of Ro": {
+  "size": 82,
+  "pages": 82,
+  "subcats": 0
+ },
+ "Southern Felwithe": {
+  "size": 41,
+  "pages": 41,
+  "subcats": 0
+ },
+ "Southern Karana": {
+  "size": 174,
+  "pages": 174,
+  "subcats": 0
+ },
+ "Spells": {
+  "size": 1941,
+  "pages": 1939,
+  "subcats": 2
+ },
+ "Splitpaw Lair": {
+  "size": 51,
+  "pages": 51,
+  "subcats": 0
+ },
+ "Steamfont Mountains": {
+  "size": 139,
+  "pages": 139,
+  "subcats": 0
+ },
+ "Stonebrunt Mountains": {
+  "size": 172,
+  "pages": 172,
+  "subcats": 0
+ },
+ "Summoned": {
+  "size": 45,
+  "pages": 45,
+  "subcats": 0
+ },
+ "Summoned Pet": {
+  "size": 9,
+  "pages": 9,
+  "subcats": 0
+ },
+ "Surefall Glade": {
+  "size": 59,
+  "pages": 59,
+  "subcats": 0
+ },
+ "Swamp of No Hope": {
+  "size": 138,
+  "pages": 138,
+  "subcats": 0
+ },
+ "Symbol line": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Tailoring Ingredient": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Talisman line": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Taverns": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Tech Support": {
+  "size": 2,
+  "pages": 2,
+  "subcats": 0
+ },
+ "Technical": {
+  "size": 35,
+  "pages": 35,
+  "subcats": 0
+ },
+ "Template": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Templates": {
+  "size": 97,
+  "pages": 96,
+  "subcats": 1
+ },
+ "Temple Era": {
+  "size": 171,
+  "pages": 171,
+  "subcats": 0
+ },
+ "Temple of Droga": {
+  "size": 93,
+  "pages": 93,
+  "subcats": 0
+ },
+ "Temple of Solusek Ro": {
+  "size": 68,
+  "pages": 67,
+  "subcats": 1
+ },
+ "Temple of Veeshan": {
+  "size": 352,
+  "pages": 352,
+  "subcats": 0
+ },
+ "The Estate of Unrest": {
+  "size": 102,
+  "pages": 102,
+  "subcats": 0
+ },
+ "The Feerrott": {
+  "size": 70,
+  "pages": 70,
+  "subcats": 0
+ },
+ "The Hole": {
+  "size": 112,
+  "pages": 112,
+  "subcats": 0
+ },
+ "The Overthere": {
+  "size": 138,
+  "pages": 138,
+  "subcats": 0
+ },
+ "The Tribunal Worshiper Equipment": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "The Wakening Land": {
+  "size": 119,
+  "pages": 119,
+  "subcats": 0
+ },
+ "The Warrens": {
+  "size": 124,
+  "pages": 124,
+  "subcats": 0
+ },
+ "Throwing": {
+  "size": 37,
+  "pages": 37,
+  "subcats": 0
+ },
+ "Thurgadin": {
+  "size": 180,
+  "pages": 180,
+  "subcats": 0
+ },
+ "Thurgadin Armor Quests": {
+  "size": 14,
+  "pages": 14,
+  "subcats": 0
+ },
+ "Timeline": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Timorous Deep": {
+  "size": 88,
+  "pages": 88,
+  "subcats": 0
+ },
+ "Tower of Frozen Shadow": {
+  "size": 146,
+  "pages": 146,
+  "subcats": 0
+ },
+ "Toxxulia Forest": {
+  "size": 84,
+  "pages": 84,
+  "subcats": 0
+ },
+ "Tracking Targets": {
+  "size": 11,
+  "pages": 11,
+  "subcats": 0
+ },
+ "Tradeskill Containers": {
+  "size": 19,
+  "pages": 19,
+  "subcats": 0
+ },
+ "Tradeskill Ingredient": {
+  "size": 829,
+  "pages": 829,
+  "subcats": 0
+ },
+ "Tradeskills": {
+  "size": 22,
+  "pages": 22,
+  "subcats": 0
+ },
+ "Trakanon's Teeth": {
+  "size": 107,
+  "pages": 107,
+  "subcats": 0
+ },
+ "Tunare Worshiper Equipment": {
+  "size": 130,
+  "pages": 130,
+  "subcats": 0
+ },
+ "UNKNOWN ERA, please correct!": {
+  "size": 11,
+  "pages": 10,
+  "subcats": 1
+ },
+ "Undead": {
+  "size": 221,
+  "pages": 221,
+  "subcats": 0
+ },
+ "Unimplemented Quests": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Unrest": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Unsolved": {
+  "size": 16,
+  "pages": 16,
+  "subcats": 0
+ },
+ "Upper Guk": {
+  "size": 124,
+  "pages": 124,
+  "subcats": 0
+ },
+ "Veeshan's Peak": {
+  "size": 116,
+  "pages": 116,
+  "subcats": 0
+ },
+ "Velious Armor Quests": {
+  "size": 5,
+  "pages": 2,
+  "subcats": 3
+ },
+ "Velious Era": {
+  "size": 5742,
+  "pages": 5740,
+  "subcats": 1
+ },
+ "Velketor's Labyrinth": {
+  "size": 177,
+  "pages": 177,
+  "subcats": 0
+ },
+ "Vendor Sold": {
+  "size": 1171,
+  "pages": 1171,
+  "subcats": 0
+ },
+ "Vendor Trash": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Vermiculated Armor": {
+  "size": 7,
+  "pages": 7,
+  "subcats": 0
+ },
+ "Waist": {
+  "size": 275,
+  "pages": 275,
+  "subcats": 0
+ },
+ "Wakening Land": {
+  "size": 1,
+  "pages": 1,
+  "subcats": 0
+ },
+ "Warrior Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Warrior Equipment": {
+  "size": 4384,
+  "pages": 4384,
+  "subcats": 0
+ },
+ "Warrior Quests": {
+  "size": 75,
+  "pages": 75,
+  "subcats": 0
+ },
+ "Warsliks Woods": {
+  "size": 141,
+  "pages": 141,
+  "subcats": 0
+ },
+ "Weapon Procs": {
+  "size": 24,
+  "pages": 24,
+  "subcats": 0
+ },
+ "Weapons": {
+  "size": 10,
+  "pages": 0,
+  "subcats": 10
+ },
+ "Weight Reduction": {
+  "size": 34,
+  "pages": 34,
+  "subcats": 0
+ },
+ "West Cabilis": {
+  "size": 53,
+  "pages": 53,
+  "subcats": 0
+ },
+ "West Commonlands": {
+  "size": 86,
+  "pages": 86,
+  "subcats": 0
+ },
+ "West Freeport": {
+  "size": 134,
+  "pages": 134,
+  "subcats": 0
+ },
+ "Western Plains of Karana": {
+  "size": 158,
+  "pages": 158,
+  "subcats": 0
+ },
+ "Western Wastes": {
+  "size": 213,
+  "pages": 213,
+  "subcats": 0
+ },
+ "Wizard Build": {
+  "size": 0,
+  "pages": 0,
+  "subcats": 0
+ },
+ "Wizard Equipment": {
+  "size": 1822,
+  "pages": 1822,
+  "subcats": 0
+ },
+ "Wizard Quests": {
+  "size": 55,
+  "pages": 55,
+  "subcats": 0
+ },
+ "Worn Effects": {
+  "size": 59,
+  "pages": 59,
+  "subcats": 0
+ },
+ "Worn Haste": {
+  "size": 46,
+  "pages": 46,
+  "subcats": 0
+ },
+ "Wrist": {
+  "size": 430,
+  "pages": 430,
+  "subcats": 0
+ },
+ "Zone Guides": {
+  "size": 4,
+  "pages": 4,
+  "subcats": 0
+ },
+ "Zones": {
+  "size": 239,
+  "pages": 117,
+  "subcats": 122
+ }
+}

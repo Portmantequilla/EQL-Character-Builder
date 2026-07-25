@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  rust:
+    name: cargo test
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: app
+      # The engine crates are pure and need no system libraries, which keeps CI off
+      # the Tauri/WebView2 desktop dependency chain. --lib restricts this to the unit
+      # tests: the integration tests under tests/ read a locally-built game database
+      # and fixture exports, neither of which is redistributed (see BUILD.md), so they
+      # can only run on a machine that has generated them.
+      - run: cargo test -p eql-engine -p eql-data --lib
+
+  frontend:
+    name: svelte-check
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - run: npm ci
+      - run: npm run check

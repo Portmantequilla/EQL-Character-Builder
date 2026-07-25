@@ -1,0 +1,29 @@
+# EQL Character Builder — Rust workspace (plan §4.1: engine is a pure crate; webview has zero rules)
+[workspace]
+resolver = "2"
+members = ["crates/eql-data", "crates/eql-engine", "src-tauri"]
+
+[workspace.package]
+version = "0.2.0"
+edition = "2021"
+license = "Proprietary"   # see LICENSE.txt at the repo root
+
+# Shipping profile: the binary is a desktop tool, not a hot loop — trade compile time
+# for size. (~11 MB -> single-digit MB before installer compression.)
+[profile.release]
+opt-level = "s"      # optimize for size
+lto = true           # cross-crate dead-code elimination
+codegen-units = 1
+panic = "abort"      # no unwinding tables
+strip = true         # drop symbols
+# PRIVACY: rustc bakes absolute source paths into the binary for panic messages
+# (<home>\.cargo\registry\..., and the workspace dir) and `strip` does NOT remove
+# them — a shipped exe would leak the build machine's user name. The profile option
+# `trim-paths` is still unstable on this toolchain, so release builds must go through
+# scripts/build_release.ps1, which sets --remap-path-prefix from the environment
+# (no user name is ever hardcoded in the repo). Verify with scripts/scan_release.py.
+
+[workspace.dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rusqlite = { version = "0.31", features = ["bundled"] }

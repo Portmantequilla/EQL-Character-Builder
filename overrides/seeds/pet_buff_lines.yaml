@@ -1,0 +1,29 @@
+# Pet buff lines — NO wiki source (the Buff Lines page covers player statistics only).
+# Shipped seed per character-builder-plan.md §3.6. All verified=0 / NEEDS_INGAME_TEST.
+# Engine reads buff_line_member for "strongest of each line" on the PET target (spec §21).
+# Values are NULL until measured in game (§8.2 backlog). Priority = descending strength.
+lines:
+  - name: PET_HASTE
+    statistic: Haste
+    notes: "Owner-cast pet haste family. NEEDS_INGAME_TEST. Burnout line seeded."
+    members:
+      - { spell: "Burnout II", source_kind: SPELL, priority: 1, value_base: null }
+      - { spell: "Burnout",    source_kind: SPELL, priority: 2, value_base: null }
+  - name: PET_STRENGTH
+    statistic: Strength
+    notes: "Owner-cast pet STR family. NEEDS_INGAME_TEST."
+    members:
+      - { spell: "Burnout II", source_kind: SPELL, priority: 1, value_base: null }
+      - { spell: "Burnout",    source_kind: SPELL, priority: 2, value_base: null }
+  - name: PET_AC
+    statistic: AC
+    notes: "Stub — populate with owner-cast pet AC buffs once identified in game."
+    members: []
+  - name: PET_REGEN
+    statistic: HP Regeneration
+    notes: "Stub — pet regen family. NEEDS_INGAME_TEST."
+    members: []
+  - name: PET_DAMAGE_SHIELD
+    statistic: Damage Shield
+    notes: "Stub — pet damage-shield family. NEEDS_INGAME_TEST."
+    members: []

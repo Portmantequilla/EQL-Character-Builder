@@ -1,0 +1,123 @@
+{
+  "_comment": "EQ Legends Wiki (eqlwiki.com) category manifest, captured via MediaWiki API 2026-07-11. size=members, subcats=child categories. Counts are beta-era and will drift; refresh with eql_wiki_sync.py --map-categories.",
+  "source": "https://eqlwiki.com/api.php",
+  "captured": "2026-07-11",
+  "top_level_content": {
+    "Items": 10688,
+    "NPCs": 8145,
+    "Named Mobs": 6498,
+    "Inventory Items": 4282,
+    "Quest Items": 4134,
+    "Quests": 197,
+    "Zones": 239,
+    "Spells": 1941,
+    "Character": 22,
+    "Character Races": 15,
+    "Tradeskills": 22,
+    "Factions": 258,
+    "Merchants": 1641,
+    "Player Crafted": 2061,
+    "Vendor Sold": 1171,
+    "Foraged": 132,
+    "Ground Spawn": 23
+  },
+  "class_equipment": {
+    "Warrior Equipment": 4383,
+    "Shadow Knight Equipment": 4002,
+    "Paladin Equipment": 3825,
+    "Bard Equipment": 3680,
+    "Ranger Equipment": 3418,
+    "Cleric Equipment": 3414,
+    "Rogue Equipment": 3350,
+    "Shaman Equipment": 2785,
+    "Druid Equipment": 2225,
+    "Monk Equipment": 2106,
+    "Wizard Equipment": 1815,
+    "Magician Equipment": 1814,
+    "Enchanter Equipment": 1812,
+    "Necromancer Equipment": 1809,
+    "Beastlord Equipment": 28,
+    "Berserker Equipment": 33,
+    "_note": "SK/Monk/Shaman are the user's build. Beastlord/Berserker low counts = mostly reuse other class cats."
+  },
+  "slots": {
+    "Chest": 505, "Head": 469, "Neck": 440, "Wrist": 430, "Hands": 372,
+    "Feet": 354, "Legs": 340, "Arms": 328, "Waist": 275, "Back": 267,
+    "Shoulders": 254, "Fingers": 214, "Ear": 111, "Face": 272,
+    "Primary": 1680, "Secondary": 1158, "Range": 288, "Ammo": 88
+  },
+  "weapon_skills": {
+    "1H Slashing": 415, "Piercing": 349, "1H Blunt": 317, "2H Slashing": 218,
+    "2H Blunt": 189, "Archery": 100, "Throwing": 37, "2H Piercing": 24, "Hand to Hand": 10
+  },
+  "effects_and_mods": {
+    "_priority": "Core of the theorycraft/mod-transfer feature",
+    "Worn Effects": 59,
+    "Focus Effects": 44,
+    "Worn Haste": 46,
+    "Weapon Procs": 24,
+    "Instant Click Equipment": 46,
+    "Clickies": 15,
+    "Aggro Clickies": 10,
+    "Invisibility Items": 14,
+    "See Hidden": 31,
+    "Weight Reduction": 46,
+    "Mana Drain": 8,
+    "Negative MR": 10
+  },
+  "effect_lines": {
+    "_note": "Named upgrade 'lines' the wiki tracks (item tiers/set progressions)",
+    "+6 Talismans": 9, "Aegis line": 7, "Heroism line": 9, "Shielding line": 7,
+    "Symbol line": 7, "Talisman line": 4, "Blessing of the Page line": 2
+  },
+  "eras": {
+    "_note": "Download ALL regardless of era per user request; era is recorded per item so out-of-era can be updated later.",
+    "Classic Era": 6041, "Velious Era": 5742, "Kunark Era": 3292,
+    "Chardok Revamp Era": 368, "Sky Era": 365, "Epic Quests Era": 333,
+    "Temple Era": 171, "Paineel Era": 124, "FearHateRevamp Era": 76,
+    "Hate Era": 59, "Fear Era": 51, "Nov 2000 Era": 17,
+    "Mar 2000 Era": 2, "May 1999 Era": 1, "Hole and Veeshan's Peak Era": 1,
+    "UNKNOWN ERA, please correct!": 11, "Legends Only": 9,
+    "Legacy Items": 87, "Non-P99 Content": 106
+  },
+  "deity_equipment": {
+    "Tunare": 130, "Cazic Thule": 61, "Rallos Zek": 47, "Brell Serilis": 46,
+    "Innoruuk": 46, "The Tribunal": 46, "Karana": 42, "Quellious": 40,
+    "Prexus": 34, "Rodcet Nife": 34, "Bertoxxulous": 18, "Bristlebane": 17,
+    "Erollisi Marr": 17, "Mithaniel Marr": 17, "Solusek Ro": 10,
+    "_note": "Deity Worshiper Equipment is a subcat group (15). Gear can be deity-locked."
+  },
+  "npc_types": {
+    "Named Mobs": 6498, "Animal": 298, "Undead": 221, "Plant": 12,
+    "Summoned": 45, "Summoned Pet": 9, "NPC Only Spells": 647,
+    "Raid Encounters": 75
+  },
+  "item_meta_categories": {
+    "Lore Items": 1239, "Book": 200, "Containers": 74, "Keys": 52,
+    "Light source": 143, "Bandage": 7, "Bard Instrument": 47,
+    "Illusions": 54, "Tradeskill Ingredient": 829, "Tradeskill Containers": 19,
+    "Magician Focus Items": 8, "Loc Mapped": 107, "Missing Lore": 570
+  },
+  "quests_by_class": {
+    "All Classes Quests": 242, "Bard Quests": 52, "Cleric Quests": 88,
+    "Druid Quests": 5, "Enchanter Quests": 36, "Magician Quests": 45,
+    "Monk Quests": 34, "Necromancer Quests": 46, "Paladin Quests": 74,
+    "Ranger Quests": 59, "Rogue Quests": 65, "Shadow Knight Quests": 72,
+    "Shaman Quests": 67, "Warrior Quests": 75, "Wizard Quests": 55,
+    "Repeatable Turn-in Quests": 1
+  },
+  "character_and_guides": {
+    "Character": 22, "Character Races": 15, "Deity": 17, "Skills": 170,
+    "Game Mechanics": 12, "Build Guides": 37, "Guides": 45, "Zone Guides": 4,
+    "Illusions": 54
+  },
+  "download_priority_for_build": {
+    "_comment": "Order eql_wiki_sync.py should pull for the SK/Monk/Shaman theorycraft goal",
+    "1_effects": ["Focus Effects", "Worn Effects", "Worn Haste", "Weapon Procs"],
+    "2_build_gear": ["Shadow Knight Equipment", "Monk Equipment", "Shaman Equipment"],
+    "3_all_gear": ["Items"],
+    "4_mobs": ["Named Mobs", "NPCs"],
+    "5_context": ["Spells", "Character", "Character Races", "Quests", "Zones"]
+  },
+  "fashion_note": "~250 'Fashion: <color>' + 'Fashion: <material>' cosmetic tint categories exist (Fashion: Plate 575, Leather 459, Chain 360, Cloth 244, etc.). Appearance-only and out of scope per 'gear and mob info only' - sync script skips the Fashion:* namespace by default."
+}

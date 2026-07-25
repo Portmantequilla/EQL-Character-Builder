@@ -1,0 +1,23 @@
+[package]
+name = "eql-builder"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "eql_builder_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-dialog = "2"
+# real Desktop path via SHGetKnownFolderPath — USERPROFILE\Desktop is WRONG when
+# OneDrive folder redirection is on (exports were landing in an invisible folder)
+dirs = "5"
+serde.workspace = true
+serde_json.workspace = true
+rusqlite.workspace = true
+eql-data = { path = "../crates/eql-data" }
+eql-engine = { path = "../crates/eql-engine" }

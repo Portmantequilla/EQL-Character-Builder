@@ -1,0 +1,22 @@
+{
+  "_note": "The class epic quest weapons. The gear optimizer skips these unless 'Allow epic gear' is enabled — they come from long quest chains, not drops, so suggesting them as ordinary upgrades is misleading. They remain fully selectable by hand in the pickers. Matched by exact name (scripts/mark_epic_items.py); extend the list if the game adds more.",
+  "names": [
+    "Blade of Strategy",
+    "Blade of Tactics",
+    "Celestial Fists",
+    "Earthcaller",
+    "Fiery Defender",
+    "Innoruuk's Curse",
+    "Jagged Blade of War",
+    "Nature Walkers Scimitar",
+    "Orb of Mastery",
+    "Ragebringer",
+    "Scythe of the Shadowed Soul",
+    "Singing Short Sword",
+    "Spear of Fate",
+    "Staff of the Four",
+    "Staff of the Serpent",
+    "Swiftwind",
+    "Water Sprinkler of Nem Ankh"
+  ]
+}
