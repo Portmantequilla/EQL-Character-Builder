@@ -202,7 +202,7 @@
   let petOptSummary = $state<string | null>(null);
 
   const hasPetGear = $derived(Object.keys(s.build.pet_equipment ?? {}).length > 0);
-  
+  //clear all pet function
   let clearPetConfirm = $state(false);
   let clearPetConfirmTimer: ReturnType<typeof setTimeout>;
   function requestClearAllPet() {
