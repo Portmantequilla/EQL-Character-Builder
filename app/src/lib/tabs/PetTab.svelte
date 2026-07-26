@@ -202,6 +202,24 @@
   let petOptSummary = $state<string | null>(null);
 
   const hasPetGear = $derived(Object.keys(s.build.pet_equipment ?? {}).length > 0);
+  
+  let clearPetConfirm = $state(false);
+  let clearPetConfirmTimer: ReturnType<typeof setTimeout>;
+  function requestClearAllPet() {
+    if (!clearPetConfirm) {
+      clearPetConfirm = true;
+      clearTimeout(clearPetConfirmTimer);
+      clearPetConfirmTimer = setTimeout(() => (clearPetConfirm = false), 3500);
+      return;
+    }
+    clearTimeout(clearPetConfirmTimer);
+    clearPetConfirm = false;
+    for (const slot of Object.keys(s.build.pet_equipment ?? {})) {
+      clearPet(slot);
+    }
+    openPetSlot = null;
+    petOptSummary = null;
+  }
 
   function requestPetOptimize(profile: "OPTIMAL" | "MINMAX") {
     if (hasPetGear && petOptConfirm !== profile) {
@@ -384,6 +402,14 @@
         onclick={() => requestPetOptimize("MINMAX")}
       >
         {#if petOptBusy === "MINMAX"}optimizing…{:else if petOptConfirm === "MINMAX"}replace pet gear?{:else}⚔ Min-Max (damage){/if}
+      </button>
+      <button
+        class="petoptbtn clearall" class:confirm={clearPetConfirm}
+        disabled={petOptBusy !== null || !hasPetGear}
+        title="Remove every pet gear item (with its tiers and augments). Player gear is untouched."
+        onclick={requestClearAllPet}
+      >
+        {#if clearPetConfirm}remove all pet gear?{:else}✖ Clear all{/if}
       </button>
       {#if petOptSummary}<span class="petoptsum">{petOptSummary}</span>{/if}
     </div>
@@ -661,6 +687,8 @@
   .petoptbtn:hover:not(:disabled) { background: #2a2f38; border-color: #6a7080; }
   .petoptbtn:disabled { opacity: .5; cursor: default; }
   .petoptbtn.confirm { background: #3a2a12; color: #f0b040; border-color: #b8791f; }
+  .petoptbtn.clearall { background: #1c1c22; color: #99a; border-color: #445; }
+  .petoptbtn.clearall:hover:not(:disabled) { background: #26262e; color: #bbc; }
   .petoptsum { color: #7c9; font-size: .72rem; }
   .slotnum { color: #fc6; min-width: 1.4rem; text-align: center; }
   .slothint { color: #778; font-size: .7rem; }
